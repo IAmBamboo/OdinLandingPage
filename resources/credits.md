@@ -1,5 +1,4 @@
-Image credits
-
+# Image credits
 Top background image from Pexels user Yuri Yuhara
 
 Bottom background image from Pexels user Aleksandar Pasaric
