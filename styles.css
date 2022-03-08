@@ -8,7 +8,7 @@ body {
     margin-left: 0;
     margin-right: 0;
     padding: 0;
-    background-image: url("https://images.pexels.com/photos/4151484/pexels-photo-4151484.jpeg");
+    background-image: url("resources/pexels-yuri-yuhara-4151484.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -178,7 +178,7 @@ a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-image: url("https://images.pexels.com/photos/2341830/pexels-photo-2341830.jpeg");
+    background-image: url("resources/pexels-aleksandar-pasaric-2341830.jpg");
     background-attachment: fixed;
     background-position: top;
     background-repeat: no-repeat;
